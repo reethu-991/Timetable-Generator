@@ -1,0 +1,2 @@
+The Timetable Generator project is a Java-based application utilizing Swing for GUI development. It allows users to input the number of subjects, timeslots, and details, generating a random timetable that is displayed in a user-friendly table. The modular design enhances code organization, and the automatic file saving feature adds practicality for users to retain generated schedules. This project successfully combines functionality and usability, 
+providing a versatile tool for creating and managing timetables in various settings. 
